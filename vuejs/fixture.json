@@ -1,0 +1,34 @@
+[
+  {
+    "model": "stocks.stock",
+    "pk": 1,
+    "fields": {
+      "title": "Pythonで機械学習はじめました(Qiitaへの投稿もはじめました) データ準備編",
+      "stock_count": 29
+    }
+  },
+  {
+    "model": "stocks.stock",
+    "pk": 2,
+    "fields": {
+      "title": "ScrapyとDjangoでラーメンマップ作成",
+      "stock_count": 23
+    }
+  },
+  {
+    "model": "stocks.stock",
+    "pk": 3,
+    "fields": {
+      "title": "Pythonで機械学習はじめました データ前処理編",
+      "stock_count": 22
+    }
+  },
+  {
+    "model": "stocks.stock",
+    "pk": 4,
+    "fields": {
+      "title": "PythonでRabbitMQメッセージの通知アプリ with Growl ～ラズパイとJuliusを添えて～",
+      "stock_count": 3
+    }
+  }
+]
