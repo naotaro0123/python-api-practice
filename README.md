@@ -5,6 +5,9 @@ Rest API Practice with Python
 [Django REST Frameworkを使って爆速でAPIを実装する](https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8)  
 [Django REST framework with Vue.js](https://qiita.com/yuuki_1204_/items/d892aa0ba935a1ac7594)  
 
+[Vue.js + Django REST framework](https://qiita.com/ryo_mt09sp/items/574bed236f3128cf97cd)  
+[Reactアプリから Django Rest API を叩いてみる](https://qiita.com/sand/items/80a67da0a44b042f0bc3)  
+
 ## Setting
 - VS Code with Python  
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)  
@@ -44,7 +47,7 @@ pyenv versions
 brew install pipenv
 
 # install library with pipenv => make Pipfile
-pipenv install django django-filter djangorestframework
+pipenv install django django-filter djangorestframework django-webpack-loader
 # install pylint
 pipenv install pylint
 
