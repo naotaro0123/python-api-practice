@@ -1,9 +1,9 @@
-# python-flask-practice
+# python-api-practice
 rest api practice with flask
 
 # Reference page
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)  
-[Visual Studio Codeで始めるPythonプログラミング](https://www.atmarkit.co.jp/ait/series/10063/index.html)  
+
 
 ## Build Setup
 
